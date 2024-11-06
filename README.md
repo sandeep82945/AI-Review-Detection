@@ -4,7 +4,7 @@
 This is official Repository of EMNLP 2024 (Main) Paper `Quis custodiet ipsos custodes?' Who will watch the watchmen? On Detecting AI-generated Peer Reviews
 
 ## 🚨 Introduction  
-What if peer reviews themselves are AI-generated? Who will guard the guards?
+### **What if peer reviews themselves are AI-generated? Who will guard the guards?**
 
 The integrity of the peer-review process is vital for maintaining scientific rigor and trust within the academic community. With the increasing use of large language models (LLMs) like ChatGPT in academic writing, concerns about AI-generated texts compromising scientific publishing, including peer reviews, are growing.
 
